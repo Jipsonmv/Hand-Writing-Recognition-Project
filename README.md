@@ -1,4 +1,4 @@
-# Hand-Writting-Recognition-Project
+# Hand-Writing-Recognition-Project
 
 Deep Neural Network with Keras for MNIST handwritten classification and recognition
 
